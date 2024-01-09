@@ -1,6 +1,6 @@
 # My Data Science projects
 
-Coded during the Data Science course
+Some of my Data Science projects
 
 ## Projects
 * [Project 0. GAME Guess the number](https://github.com/andrey-mat/dataScience/tree/main/project_0)
