@@ -17,7 +17,7 @@ We need to analise the data provided by HEADHUNTER to find the dependences and m
 
 
 ### Case study
-This is a good example of data exploration where I was able to train my skills on the real database.
+This is a good example of data exploration.
 I have one another HeadHunter research project in my portfolio, but this one is focused on using SQL to analise data<br>
 :arrow_up:[back to contents](#table-of-contents)
 
